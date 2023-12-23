@@ -1,1 +1,1 @@
-# CCGo
+# Currency Converter using Go
